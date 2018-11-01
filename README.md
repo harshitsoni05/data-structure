@@ -2,7 +2,7 @@ Name - Harshit Soni
 Roll No. - 2017BtechCSE009
 
 
-~Data Structure Lab Programs list~
+*Data Structure Lab Programs list*
 1. Queue - In this program, i have used the switch logic for all the operations of queue.
 
 2. Stack - In this program, i have used the switch logic for all the operations of stack.
